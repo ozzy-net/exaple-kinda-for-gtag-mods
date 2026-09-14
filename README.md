@@ -1,4 +1,4 @@
-# GorillaLocomotion C++ Adapter
+# GorillaLocomotion C++ Adapter (made by acid/openXR_exploits)
 
 A small, header-only adapter for connecting C++ menus to
 GorillaLocomotion player settings.
